@@ -32,8 +32,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=KaranSaini2219&show_icons=true&theme=radical" width="450" />
+
 
 ### 🔗 Connect with me
 [LinkedIn](#) • [Portfolio](#) • [Twitter](#)
