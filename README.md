@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Karan Saini</h1>
-<h3 align="center">A passionate developer building cool stuff with JavaScript</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6dd5ed&height=200&section=header&text=Karan%20Saini&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Building%20cool%20stuff%20with%20JavaScript&descAlignY=65&descSize=18" />
+
+<p align="center">
+  <a href="https://github.com/KaranSaini2219">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Cloud+%26+DevOps+Explorer;Always+Learning+Something+New" />
+  </a>
+</p>
 
 ### 🚀 Tech Stack
 
@@ -39,6 +44,10 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+### 🐍 Contribution Snake
+<!-- snake-animation-here -->
 
 ### 🔗 Connect with me
 [LinkedIn](#) • [Portfolio](#) • [Twitter](#)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:0e75b6&height=100&section=footer" />
